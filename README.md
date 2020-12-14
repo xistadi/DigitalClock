@@ -3,7 +3,7 @@
 
 Часы в терминале. Показывают текущее время.
 
-![clock]()
+![clock](https://github.com/xistadi/DigitalClock/blob/main/screenshots/digitalclock.gif)
 ---
 
 ## Update
